@@ -10,7 +10,7 @@ import models.*;
 public class Application extends Controller {
 
     public static void index() {
-    	System.out.println("Hello world");
+    	System.out.println("HU3HU3");
         render();
     }
 
